@@ -1,0 +1,9 @@
+dataset
+dataset/
+__pycache__/
+.vscode/
+project.md
+*.csv
+.venv/
+.ipynb_checkpoints/
+uv.lock
